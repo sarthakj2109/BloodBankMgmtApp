@@ -41,5 +41,5 @@ To run the code:-
 
 NOTE:
 
-The BloodBank.pptx powerpoint presentation conatins useful information such as the class diagrams, use cases, database design and flow diagram.
+The BLOOD BANK APP.pptx powerpoint presentation conatins useful information such as the class diagrams, use cases, database design and flow diagram.
  
