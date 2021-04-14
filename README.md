@@ -1,5 +1,4 @@
-# BloodBankMgmtApp
-Blood Bank Management Application 
+# Blood Bank Management Application 
 
 A console based app using OOPS, Core Java and Java Database Connectivity concepts. Provides options for donor registration, eligibility check, seeker demand check and staff member activities.
 
