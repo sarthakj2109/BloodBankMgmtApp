@@ -13,8 +13,8 @@ Following tables have been used:-
 
 The src folder contains the source code.
 It contains 15 files:-
-1. AddDonor.java - for Adding a donor ecord in the database
-1. AddSeeker.java - for Adding a seeker ecord in the database
+1. AddDonor.java - for Adding a donor record in the database
+1. AddSeeker.java - for Adding a seeker record in the database
 3. Client.java - the main user interface
 4. Create_Inv.java - for Creating Blood Inventory table
 5. CreateDonor.java - for Creating Donor table
